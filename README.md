@@ -1,2 +1,1 @@
-# home
-Another website
+That's it!
