@@ -11,7 +11,6 @@ p {
 </style>
 <title>Website</title>
 <!-- Hi, this site is under construction -->
-<img src="https://motherboard-images.vice.com/content-images/contentimage/26327/1444070216325387.gif" alt="90's under construction gif depicting 2 workers blasting into the road while a bird flies in the distance">
 <p class="empty rectangle"></p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_.<br/>
