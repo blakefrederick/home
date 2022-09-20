@@ -3,13 +3,16 @@ import Head from 'next/head'
 
 // Components
 import Book from '/src/components/Book'
+import FunCube from '/src/components/FunCube';
 
 // Styles
 import styles from '/src/styles/Home.module.css'
 
 export default function Home() {
   return (
+    <>
     <div className={styles.container}>
+      
       <Head>
         <title>Welcome!</title>
         <meta name="description" content="Welcome to this website" />
@@ -36,8 +39,9 @@ export default function Home() {
         <Book />      
       </main>
       <footer className={styles.footer}>
-        ````
+        <FunCube/>
       </footer>
     </div>
+   </>
   )
 }
