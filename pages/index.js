@@ -3,7 +3,8 @@ import Head from 'next/head'
 
 // Components
 import Book from '/src/components/Book'
-import FunCube from '/src/components/FunCube';
+import FunCube from '/src/components/FunCube'
+import Heart from '/src/components/Heart'
 
 // Styles
 import styles from '/src/styles/Home.module.css'
@@ -36,10 +37,11 @@ export default function Home() {
         }}
       />
       <main className={styles.main}>
+        <Heart/>
         <Book />      
       </main>
       <footer className={styles.footer}>
-        <FunCube/>
+        {/* <FunCube/> */}
       </footer>
     </div>
    </>

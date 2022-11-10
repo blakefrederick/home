@@ -1,0 +1,11 @@
+.heart {
+  width: 100px;
+  height: 100px;
+  background: url(http://imagizer.imageshack.com/img923/4545/XdJDuY.png) no-repeat;  
+  cursor: pointer;
+  margin: 0 auto;
+}
+.blast {
+  background-position: -2800px 0;
+  transition: background 1s steps(28);
+}
