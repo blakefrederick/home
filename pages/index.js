@@ -37,7 +37,7 @@ export default function Home() {
         }}
       />
       <main className={styles.main}>
-        <Heart/>
+	  {/* <Heart/> */}
         <Book />      
       </main>
       <footer className={styles.footer}>
